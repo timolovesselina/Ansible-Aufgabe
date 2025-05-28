@@ -1,2 +1,2 @@
-10.1.10.146
-10.1.10.83
+10.1.10.146 ansible_user=hubadmin
+10.1.10.83 ansible_user=admin
